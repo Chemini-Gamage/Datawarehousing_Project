@@ -8,7 +8,7 @@ This project showcases a complete **Data Warehousing (DW)** and **Business Intel
 
 ---
 
-## 1️⃣ Data Warehousing – ETL & Star Schema Design
+## 1️⃣ Data Warehousing – ETL & Snowflake Schema Design
 
 ### 💽 Data Source
 

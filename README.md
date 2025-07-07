@@ -154,4 +154,7 @@ Storage Mode: Multidimensional (MOLAP)
 * Excel integration for matrix and tabular analysis
 * Handling BI design challenges (e.g., drillthrough not working, blank visuals)
 
+##To get the files of dashboard,backup files vistit :"https://drive.google.com/drive/folders/1HWKQgnILKXOKJwm39d7PYsJk8gfmBmDq?usp=sharing"
+
+##Thank you
 
